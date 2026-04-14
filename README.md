@@ -1,7 +1,7 @@
 # HTML Rules and Scope for Designing
 
 **HCI Lab 01**  
-Submitted by: Anum Rafiq
+Submitted by: Anum Rafiq Shaikh
 
 ## Purpose of this Lab
 This repository demonstrates the **rules and scope** of HTML in User Interface design.
